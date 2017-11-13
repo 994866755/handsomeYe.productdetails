@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\gitcode\ProductDetails\pullrefresh\assets"/><source path="F:\gitcode\ProductDetails\pullrefresh\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="F:\gitcode\ProductDetails\pullrefresh\build-types\release\assets"/></dataSet></merger>

@@ -1,0 +1,273 @@
+[
+    {
+        "outputFile": "F:\\gitcode\\ProductDetails\\pullrefresh\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1703,
+                    "endColumn": 63,
+                    "endOffset": 1762
+                },
+                "from": {
+                    "file": "F:\\gitcode\\ProductDetails\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1703,
+                        "endColumn": 63,
+                        "endOffset": 1762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1767,
+                    "endColumn": 63,
+                    "endOffset": 1826
+                },
+                "from": {
+                    "file": "F:\\gitcode\\ProductDetails\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1767,
+                        "endColumn": 63,
+                        "endOffset": 1826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1831,
+                    "endColumn": 54,
+                    "endOffset": 1881
+                },
+                "from": {
+                    "file": "F:\\gitcode\\ProductDetails\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1831,
+                        "endColumn": 54,
+                        "endOffset": 1881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1886,
+                    "endColumn": 56,
+                    "endOffset": 1938
+                },
+                "from": {
+                    "file": "F:\\gitcode\\ProductDetails\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1886,
+                        "endColumn": 56,
+                        "endOffset": 1938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1943,
+                    "endColumn": 54,
+                    "endOffset": 1993
+                },
+                "from": {
+                    "file": "F:\\gitcode\\ProductDetails\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1943,
+                        "endColumn": 54,
+                        "endOffset": 1993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1998,
+                    "endColumn": 37,
+                    "endOffset": 2031
+                },
+                "from": {
+                    "file": "F:\\gitcode\\ProductDetails\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1998,
+                        "endColumn": 37,
+                        "endOffset": 2031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2036,
+                    "endColumn": 39,
+                    "endOffset": 2071
+                },
+                "from": {
+                    "file": "F:\\gitcode\\ProductDetails\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2036,
+                        "endColumn": 39,
+                        "endOffset": 2071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2076,
+                    "endColumn": 36,
+                    "endOffset": 2108
+                },
+                "from": {
+                    "file": "F:\\gitcode\\ProductDetails\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2076,
+                        "endColumn": 36,
+                        "endOffset": 2108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2113,
+                    "endColumn": 101,
+                    "endOffset": 2210
+                },
+                "from": {
+                    "file": "F:\\gitcode\\ProductDetails\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2113,
+                        "endColumn": 101,
+                        "endOffset": 2210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2215,
+                    "endColumn": 113,
+                    "endOffset": 2324
+                },
+                "from": {
+                    "file": "F:\\gitcode\\ProductDetails\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2215,
+                        "endColumn": 113,
+                        "endOffset": 2324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2329,
+                    "endColumn": 107,
+                    "endOffset": 2432
+                },
+                "from": {
+                    "file": "F:\\gitcode\\ProductDetails\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2329,
+                        "endColumn": 107,
+                        "endOffset": 2432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2437,
+                    "endColumn": 71,
+                    "endOffset": 2504
+                },
+                "from": {
+                    "file": "F:\\gitcode\\ProductDetails\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2437,
+                        "endColumn": 71,
+                        "endOffset": 2504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2509,
+                    "endColumn": 69,
+                    "endOffset": 2574
+                },
+                "from": {
+                    "file": "F:\\gitcode\\ProductDetails\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2509,
+                        "endColumn": 69,
+                        "endOffset": 2574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2579,
+                    "endColumn": 77,
+                    "endOffset": 2652
+                },
+                "from": {
+                    "file": "F:\\gitcode\\ProductDetails\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2579,
+                        "endColumn": 77,
+                        "endOffset": 2652
+                    }
+                }
+            }
+        ]
+    }
+]

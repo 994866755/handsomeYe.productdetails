@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kylinarm.productdetails.MainActivity">
+
+    <com.example.kylinarm.productdetails.widget.KylinScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/pull_scroll"
+        >
+    </com.example.kylinarm.productdetails.widget.KylinScrollView>
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/top_tab"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/bg_bottom_line"
+        app:tabMode="fixed"
+        app:tabGravity="fill"
+        app:tabTextColor="@color/black"
+        app:tabSelectedTextColor="@color/red"
+        app:tabIndicatorColor="@color/red"
+        app:tabIndicatorHeight="2dp"
+        android:visibility="gone"
+        />
+
+</RelativeLayout>
